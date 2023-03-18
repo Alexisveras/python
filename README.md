@@ -1,17 +1,9 @@
-# python
-Python codes
-[Visita mi Repositorio](https://github.com/Alexisveras/python/)
-
-![A cute kitten]([https://storyset.com/illustration/launching/bro#FFC100FF&hide=&hide=complete])
-
-<a href="https://github.com/Alexisveras/python/blob/6c23caf59d62fa5918efa2698bc39a1d7c99e737/Imgs/IMG_1.PNG">Rocket illustrations by Storyset</a>
-
-![Learn Python 3 Logo](Imgs/IMG_1.PNG)
+![Learn Python 3 Logo](Imgs/IMG_2.jpg)
 
 Learn Python 3
 =================
-by **Ankit Mahato** [[About](https://animator.github.io)]  
-*Version 2022.10*
+by **Alexis Veras** [[About](https://github.com/Alexisveras/python/)]  
+*Version 2023.03*
 
 
 | Topics                  | Subtopics                                                  | Details                                   |
@@ -24,4 +16,4 @@ by **Ankit Mahato** [[About](https://animator.github.io)]
 |                         | Dictionary                                                 |                                           |
 |                         | Boolean                                                    |                                           |
 |                         | Set                                                        |                                           |
-|                         | Sequence Type                                              | (`Strings`,`List’,`Tuple`)                |
+|                         | Sequence Type                                              | (`Strings`,`List`,`Tuple`)                |
