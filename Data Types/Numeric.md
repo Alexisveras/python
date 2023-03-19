@@ -1,4 +1,15 @@
 """Numbers.
+```python
+
+In Python, there are three built-in numeric data types:
+
+Integers (int): Integers are whole numbers without a decimal point. They can be positive, negative, or zero. For example, 42, -1, and 0 are all integers.
+Floating-point numbers (float): Floating-point numbers are numbers with a decimal point. They can be positive, negative, or zero. For example, 3.14, -0.5, and 2.0 are all floats.
+Complex numbers (complex): Complex numbers are numbers with a real and imaginary component. They are written in the form a + bj, where a is the real part and b is the imaginary part. For example, 3 + 2j, -1 - 2j, and 4j are all complex numbers.
+Numeric data types in Python can be used in arithmetic expressions, such as addition, subtraction, multiplication, and division. Python also provides various built-in functions and modules for working with numeric data, such as abs() for finding the absolute value, round() for rounding to a specified number of decimal places, and math module for more advanced mathematical operations.
+
+It's important to keep in mind that certain operations may produce unexpected results due to the limitations of floating-point arithmetic. For example, adding 0.1 and 0.2 may not result in exactly 0.3 due to rounding errors. To avoid such issues, you may need to use more advanced techniques or libraries that support arbitrary-precision arithmetic.
+
 
 @see: https://docs.python.org/3/tutorial/introduction.html
 @see: https://www.w3schools.com/python/python_numbers.asp
