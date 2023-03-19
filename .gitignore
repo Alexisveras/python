@@ -1,7 +1,0 @@
-.idea
-.pytest_cache
-venv
-**/*.pyc
-env
-__pycache__
-.vscode
